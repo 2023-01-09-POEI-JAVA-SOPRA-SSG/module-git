@@ -2,3 +2,7 @@ Se connecter
 
 Email : ...........
 Mot de passe : ........
+
+Mot de passe oublié?Cliquer ici
+
+[ Se connecter ]
