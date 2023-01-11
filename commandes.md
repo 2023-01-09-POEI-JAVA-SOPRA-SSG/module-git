@@ -25,3 +25,5 @@
 - `git checkout -b <nouvellee_branche>` : Créer une branche, et se positionner dessus
 
 - `git merge <nom_branch>` : Combiner la brach courant avec <nom_branch>
+
+- `git clone <url>` : Permet de cloner le dépôt Git afin d'avoir une copie en local.
