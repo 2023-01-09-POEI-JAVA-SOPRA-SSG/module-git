@@ -1,5 +1,5 @@
 function add(a, b) {
-  return a + d;
+  return a + b;
 }
 
 console.log(add(7, 7));
